@@ -32,6 +32,8 @@ body {
 }
 
 .happy-woman-day {
+    padding-left: 2%;
+    padding-right: 2%;
     color: white;
     font-size: 30px;
     position: fixed;
